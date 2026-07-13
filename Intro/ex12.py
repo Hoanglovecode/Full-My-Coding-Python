@@ -1,0 +1,5 @@
+a,b=map(float,input("Enter two numbers in a line:").split())
+print("Sum:",a+b)
+print("Subtraction:",a-b)
+print("Multiplication:",a*b)
+print("Devision:",a/b)
